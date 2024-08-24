@@ -5,7 +5,6 @@ int fun(void *Ptr){
     return 0;
 }
 int main(){
-    char* s = "abc";
-    fun(s);
+    std::cout << "AA" << std::endl;
 
 }
